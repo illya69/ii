@@ -11,7 +11,7 @@
 *Flask, REST API*
 *SQLite*
   
-*## 📌 Мои проекты:*
+* 📌 Мои проекты:*
 
 *[Flask API для погоды](https://github.com/user/weather-api)*
   *[Telegram бот с мини-играми](https://github.com/user/telegram-bot)*
